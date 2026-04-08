@@ -1,3 +1,5 @@
+//Multiple objects creation (Student details)
+
 public class Test4 {
     String name;
     int age;
