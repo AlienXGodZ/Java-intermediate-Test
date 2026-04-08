@@ -1,4 +1,4 @@
-//this program in price it automatically put comma.
+//this program in price it automatically put comma. like 40,0000
 
 public class Test2 {
     String name;
