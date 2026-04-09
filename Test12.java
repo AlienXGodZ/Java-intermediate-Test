@@ -16,6 +16,8 @@ class Puppy extends Dog1 {
     void weep() {
         System.out.println("Puppy weeps");
     }
+}
+public class Test12{
 
     public static void main(String[] args) {
         Puppy p = new Puppy();
