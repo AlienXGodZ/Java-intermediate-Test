@@ -8,7 +8,7 @@ class Outer {
             System.out.println(msg);
         }
     }
-
+}
     public class Test26 {
 
 
@@ -18,4 +18,3 @@ class Outer {
             i.show();
         }
     }
-}
