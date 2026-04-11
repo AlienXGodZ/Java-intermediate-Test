@@ -1,3 +1,5 @@
+//Interface implementation (Payment → UPI)
+
 interface Payment {
     void pay(); // abstract method
 }
