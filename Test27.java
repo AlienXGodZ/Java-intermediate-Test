@@ -1,3 +1,5 @@
+//Static Inner Class
+
 class Outer1 {
     static String msg = "Hello Static";
 
