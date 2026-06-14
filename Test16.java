@@ -1,12 +1,12 @@
 //Method overriding (Animal sound())
 
-class animal {
+class Test16 {
     void sound() {
         System.out.println("Animal makes sound");
     }
 }
 
-class dog extends Animal {
+class Dog12354 extends Animal {
 
     // overriding method
     @Override
@@ -15,7 +15,7 @@ class dog extends Animal {
     }
 
     public static void main(String[] args) {
-        Dog d = new Dog();
+        Dog12354 d = new Dog12354();
         d.sound(); // calls Dog's method
     }
 }

@@ -6,7 +6,7 @@ class Animal2 {
     }
 }
 
-class Dog2 extends Animal {
+class Dog2 extends Animal2 {
     void bark() {
         System.out.println("Dog barks");
     }
