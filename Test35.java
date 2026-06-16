@@ -28,7 +28,7 @@ public class Test35 {
         System.out.print("Enter year: ");
         int year = sc.nextInt();
 
-        Birthday myBirth = new Birthday(day, month, year);
+        birthday1 myBirth = new birthday1(day, month, year);
 
         LocalDate birthDate =
                 LocalDate.of(myBirth.year, myBirth.month, myBirth.day);
