@@ -20,7 +20,7 @@ public class Test52 {
 
                 System.out.println("ID: " + id);
                 System.out.println("Name: " + name);
-                break;
+
             }
 
             br.close();
