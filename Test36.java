@@ -1,12 +1,12 @@
 import java.time.LocalDate;
 import java.util.Scanner;
 
-class birthday1 {
+class birthday12 {
     int day;
     int month;
     int year;
 
-    birthday1(int day, int month, int year) {
+    birthday12(int day, int month, int year) {
         this.day = day;
         this.month = month;
         this.year = year;
@@ -27,7 +27,7 @@ public class Test36 {
         System.out.print("Enter Birthday Year: ");
         int year = sc.nextInt();
 
-        birthday1 myBirth = new birthday1(day, month, year);
+        birthday12 myBirth = new birthday12(day, month, year);
 
         LocalDate today = LocalDate.now();
 
